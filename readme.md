@@ -1,5 +1,5 @@
 **Ayrat Zaripov**
-![alt text](F:/Programms/IDEA-projects/homeprojects/git-diplom/img/batman.PNG "This is I am")
+![alt text](F:/Programms/IDEA-projects/homeprojects/git-diplom/img/batman.JPG "This is I am")
 My name is Ayrat Zaripov. 
 I'm thirty two years old.
 I'm engineer of company OOO "Pojzarnoe obshestvo".
